@@ -1,0 +1,5 @@
+org/venki/spring/model/Customer.class
+org/venki/spring/controller/CustomerRestController.class
+org/venki/spring/dao/CustomerDAO.class
+org/venki/config/AppConfig.class
+org/venki/config/AppInitializer.class
